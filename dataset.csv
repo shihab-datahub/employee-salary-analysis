@@ -1,0 +1,11 @@
+employee_id,department,age,salary,experience,city
+1,IT,28,60000,3,Bangalore
+2,HR,35,50000,8,Hyderabad
+3,Finance,30,55000,5,Mumbai
+4,IT,26,62000,2,Bangalore
+5,Marketing,32,48000,6,Delhi
+6,Finance,40,70000,12,Mumbai
+7,HR,29,52000,4,Hyderabad
+8,IT,31,65000,7,Bangalore
+9,Marketing,27,45000,3,Delhi
+10,Finance,36,72000,10,Mumbai
